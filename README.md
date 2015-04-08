@@ -1,3 +1,3 @@
 # hello-world
-Just a Test
-Editing this text
+Just a Test.
+Editing this text.
